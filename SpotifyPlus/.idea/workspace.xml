@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43b86df8-0188-4289-9a05-d40fc887e2ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gEsdS0zuurfVFJsSxCZozVbKDj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="GetPlaylist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpotiPlus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CLIENT_ID" value="3bd94589d6854cbfb62b9705d12cb027" />
+        <env name="CLIENT_SECRET" value="782f05eabb1a4e70ae93e0646e848cbe" />
+        <env name="LASTFM_APIKEY" value="9777587937cba8a3c16ceea27c517627" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GetPlaylist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpotiPlus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CLIENT_ID" value="3bd94589d6854cbfb62b9705d12cb027" />
+        <env name="CLIENT_SECRET" value="782f05eabb1a4e70ae93e0646e848cbe" />
+        <env name="LASTFM_APIKEY" value="9777587937cba8a3c16ceea27c517627" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GetPlaylist" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.GetPlaylist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43b86df8-0188-4289-9a05-d40fc887e2ef" name="Default Changelist" comment="" />
+      <created>1597691172681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597691172681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598154204415">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="209" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/40.23.1400.877@40.23.1400.877" timestamp="1598096633591" />
+    <state x="209" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/41.23.1399.877@41.23.1399.877" timestamp="1598154204415" />
+    <state x="40" y="444" key="EnvironmentVariablesDialog" timestamp="1598091850574">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="40" y="444" key="EnvironmentVariablesDialog/40.23.1400.877@40.23.1400.877" timestamp="1598091850574" />
+    <state width="428" height="471" key="GridCell.Tab.0.bottom" timestamp="1598154931750">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="428" height="471" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1598140138511" />
+    <state width="428" height="471" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1598142763855" />
+    <state width="428" height="471" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1598142557635" />
+    <state width="428" height="471" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1598152820301" />
+    <state width="428" height="471" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1598154931750" />
+    <state width="392" height="471" key="GridCell.Tab.0.bottom/44.23.1396.877@44.23.1396.877" timestamp="1598076350821" />
+    <state width="428" height="471" key="GridCell.Tab.0.center" timestamp="1598154931750">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="428" height="471" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1598140138510" />
+    <state width="428" height="471" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1598142763854" />
+    <state width="428" height="471" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1598142557634" />
+    <state width="428" height="471" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1598152820300" />
+    <state width="428" height="471" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1598154931750" />
+    <state width="392" height="471" key="GridCell.Tab.0.center/44.23.1396.877@44.23.1396.877" timestamp="1598076350821" />
+    <state width="428" height="471" key="GridCell.Tab.0.left" timestamp="1598154931746">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="428" height="471" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1598140138509" />
+    <state width="428" height="471" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1598142763854" />
+    <state width="428" height="471" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1598142557633" />
+    <state width="428" height="471" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1598152820300" />
+    <state width="428" height="471" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1598154931746" />
+    <state width="392" height="471" key="GridCell.Tab.0.left/44.23.1396.877@44.23.1396.877" timestamp="1598076350821" />
+    <state width="428" height="471" key="GridCell.Tab.0.right" timestamp="1598154931750">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="428" height="471" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1598140138510" />
+    <state width="428" height="471" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1598142763855" />
+    <state width="428" height="471" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1598142557634" />
+    <state width="428" height="471" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1598152820301" />
+    <state width="428" height="471" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1598154931750" />
+    <state width="392" height="471" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1598076350821" />
+    <state x="348" y="80" key="SettingsEditor" timestamp="1598128398595">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="347" y="80" key="SettingsEditor/39.23.1401.877@39.23.1401.877" timestamp="1597700213059" />
+    <state x="348" y="80" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1598128398595" />
+    <state x="351" y="80" key="SettingsEditor/44.23.1396.877@44.23.1396.877" timestamp="1598076907054" />
+    <state x="314" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1598155616309">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="312" y="274" key="com.intellij.ide.util.TipDialog/39.23.1401.877@39.23.1401.877" timestamp="1597694979689" />
+    <state x="313" y="274" key="com.intellij.ide.util.TipDialog/40.23.1400.877@40.23.1400.877" timestamp="1598091087087" />
+    <state x="314" y="274" key="com.intellij.ide.util.TipDialog/41.23.1399.877@41.23.1399.877" timestamp="1598155616309" />
+    <state x="471" y="215" width="671" height="676" key="search.everywhere.popup" timestamp="1598098364767">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="471" y="215" width="671" height="676" key="search.everywhere.popup/39.23.1401.877@39.23.1401.877" timestamp="1598098364767" />
+    <state x="472" y="215" width="670" height="676" key="search.everywhere.popup/40.23.1400.877@40.23.1400.877" timestamp="1598088096278" />
+  </component>
+</project>
