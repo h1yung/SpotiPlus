@@ -1,7 +1,7 @@
 # SpotiPlus
 Retrieve and visualize the top 5 music genres found in a selected public Spotify playlist or a user's entire playlist library.
 
-<img width="211" alt="titlescreen" src="https://user-images.githubusercontent.com/54069717/90970449-395f4a00-e4d3-11ea-8b7b-ce3e7ff6fadb.png">
+<img width="600" alt="titlescreen" src="https://user-images.githubusercontent.com/54069717/90970449-395f4a00-e4d3-11ea-8b7b-ce3e7ff6fadb.png">
 
 # What it is
 A common question that we ask within one another is "what music do you like to listen to?" With SpotiPlus, you can scan all your or someone else's public Spotify playlists and determine what your favorite music genres are. 
