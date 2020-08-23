@@ -20,9 +20,9 @@ With this data, I created a **Matplotlib** pie chart as well as a list of the to
 
 1. Download the files in the repo
 2. On terminal, switch to the file's directory
-3. Run the following
-  export CLIENT_ID="(your spotify developer client id)"
-  export CLIENT_SECRET="(your spotify developer client secret)"
-  export LASTFM_APIKEY="(your lastfm api key)"
+3. Run the following<br/>
+  export CLIENT_ID="(your spotify developer client id)"<br/>
+  export CLIENT_SECRET="(your spotify developer client secret)"<br/>
+  export LASTFM_APIKEY="(your lastfm api key)"<br/>
   
   python main.py
