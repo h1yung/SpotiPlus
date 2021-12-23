@@ -11,9 +11,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/h1yung/SpotiPlus">
-    <img src="https://user-images.githubusercontent.com/54069717/71475766-a806cf00-27af-11ea-9aff-4b0500bf2951.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">SpotiPlus</h3>
 
